@@ -1,0 +1,17 @@
+/* Sidebar.css */
+.sidebar {
+    display: flex;
+}
+
+.sidebar-item {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+}
+
+.sidebar-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
